@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1586937948 source:d:\yash\youtube\main.cpp
+	<winsock.h>
+	<iostream>
+	<mysql.h>
+	<windows.h>
+	<sstream>
+
+1586934383 c:\program files\dev-cpp\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1586934251 c:\program files\dev-cpp\mingw64\include\mysql_com.h
+
+1586860724 c:\program files\dev-cpp\mingw64\include\mysql_time.h
+
+1586860724 c:\program files\dev-cpp\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1586860724 c:\program files\dev-cpp\mingw64\include\typelib.h
+
+1586860724 c:\program files\dev-cpp\mingw64\include\my_list.h
+
+1586860724 c:\program files\dev-cpp\mingw64\include\my_alloc.h
+
